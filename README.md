@@ -1,0 +1,1 @@
+# bluesoft-sql-challenge
